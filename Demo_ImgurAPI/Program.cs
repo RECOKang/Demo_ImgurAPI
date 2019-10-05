@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo_ImgurAPI
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {
